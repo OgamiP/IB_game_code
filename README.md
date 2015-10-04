@@ -3,4 +3,4 @@ Unity3Dで作成した自作アクションゲーム「INF BATTLE」
 
 C#ソースコードはcsファイルにまとめてあります
 
-![Alt text](/image/main_image.png)
+![Alt text](/image/main.png)
