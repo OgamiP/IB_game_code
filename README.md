@@ -25,7 +25,7 @@ C#ソースコードはcsファイルにまとめてあります
 
 キャラクターの攻撃（スキル）を管理するスクリプト
 
-[enemy.cs]()
+[enemy.cs](https://github.com/OgamiP/IB_game_code/blob/master/cs/enemy.cs)
 
 敵の行動スクリプト　移動はプレイヤーをめざし前進し、設定範囲内にプレイヤーがいる場合攻撃へ遷移する
 
@@ -63,6 +63,7 @@ C#ソースコードはcsファイルにまとめてあります
 [thunder_light_script.cs](https://github.com/OgamiP/IB_game_code/blob/master/cs/thunder_light_script.cs)
 
 雷により画面が一瞬明るくなることを環境ライトの明るさ切り替えにより実装（サウンドとの同期は行っていない）
+
 
 
 
