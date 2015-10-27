@@ -1,6 +1,6 @@
 # 自作3Dアクションゲーム「INF BATTLE」
 Unity3Dで作成した自作アクションゲーム「INF BATTLE」
-
+![manual](/image/main_image.png)
 ゲームの簡易マニュアルはREDMEの最下部に画像で載せて有ります。
 
 
