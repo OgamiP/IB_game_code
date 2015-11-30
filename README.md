@@ -37,8 +37,11 @@ Unity3Dで作成した自作アクションゲーム「INF BATTLE」
 ***
 
 
-##webプレイヤーリンク
+##Web Player
 ####※音が出ます
 
 [INF BATTLE](https://googledrive.com/host/0B6E2l8AehLM9YjIzRVZiQjhpWVk/IB_WEB.html)
 
+Unity Web Playerは以下のリンクからダウンロードできます
+
+[Unity Web Player](https://unity3d.com/jp/webplayer)
