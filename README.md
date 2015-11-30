@@ -9,6 +9,7 @@ Unity3Dで作成した自作アクションゲーム「INF BATTLE」
     - 以降少しずつ改良
 
 ***
+
 ##操作方法
 
 [w]         前進
@@ -23,7 +24,7 @@ Unity3Dで作成した自作アクションゲーム「INF BATTLE」
 
 [e]         ローリング
 
-[q] (飛行中) 急降下
+[q]         急降下
 
 [tab]       カメラ反転
 
@@ -40,5 +41,4 @@ Unity3Dで作成した自作アクションゲーム「INF BATTLE」
 ####※音が出ます
 
 [INF BATTLE](https://googledrive.com/host/0B6E2l8AehLM9YjIzRVZiQjhpWVk/IB_WEB.html)
-
 
