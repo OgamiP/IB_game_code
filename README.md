@@ -1,6 +1,5 @@
 # 自作3Dアクションゲーム「INF BATTLE」
 Unity3Dで作成した自作アクションゲーム「INF BATTLE」
-![manual](/image/main_image.png)
 
 - 対応プラットフォーム:Windows PC
 - 製作期間
