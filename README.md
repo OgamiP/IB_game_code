@@ -1,4 +1,4 @@
-# 自作3Dアクションゲーム「INF BATTLE」
+# 自作3Dアクションゲーム「INF BATTLE」(2015)
 Unity3Dで作成した自作アクションゲーム「INF BATTLE」
 
 - 対応プラットフォーム:Windows PC
